@@ -74,20 +74,20 @@ Post-cleaning: **4,933 rows, 0 null values**
 
 ## 📊 Key Findings
 
-### 1. Technology leads in revenue but Office Supplies are volume-driven
-Technology and Furniture account for over 97% of total revenue (~$4.8M and ~$4.1M respectively), while Office Supplies, despite high order volume, contribute only ~$197K due to low unit prices.
+### 1. Technology & Furniture lead in revenue but Office Supplies are volume-driven
+Technology and Furniture account for over 97% of total revenue (~$4.8M and ~$4.1M respectively), while Office Supplies, show higher order volume and contribute only ~$197K due to lower unit prices.
 
 ### 2. Discounts above 20% are margin-killers
-Orders with 0% discount average a **42.3% profit margin**. Orders discounted 31%+ averaged a **-13.4% margin** — actively losing money. This is the single most actionable insight in the dataset.
+Orders with 0% discount average a **42.3% profit margin**. Orders discounted 31%+ averaged a **-13.4% margin**, actively losing money. This is the single most significant insight in the dataset has offered.
 
 ### 3. Revenue dipped in 2023
-After a 2.9% YoY increase in 2022, revenue declined 7.4% in 2023. The decline is concentrated in H1 2023, while Sep 2023 was the single highest-revenue month in the entire dataset ($343K).
+After a 2.9% year-over-year increase in 2022, revenue declined 7.4% in 2023. The decline is concentrated in H1 2023, while Sep 2023 was the single highest-revenue month in the entire dataset ($343K).
 
 ### 4. Laptops alone drove $704K in profit
-The top 3 sub-categories by profit — Laptops ($704K), Tables ($520K), and Phones ($385K) — account for over 35% of all profit.
+The top 3 sub-categories by profit - Laptops ($704K), Tables ($520K), and Phones ($385K) - account for over 35% of all profit.
 
 ### 5. Regional performance is relatively balanced
-No single region dominates. East leads slightly, but all four regions fall within $150K of each other in total revenue, suggesting consistent national reach.
+No single region dominates. The east leads slightly, but all four regions fall within $150K of each other in total revenue, suggesting consistent national reach.
 
 ---
 
@@ -117,7 +117,7 @@ No single region dominates. East leads slightly, but all four regions fall withi
 
 ```bash
 # 1. Clone and install dependencies
-git clone https://github.com/yourusername/retail-sales-analysis.git
+git clone https://github.com/vinethsam/retail-sales-analysis.git
 cd retail-sales-analysis
 pip install -r requirements.txt
 
