@@ -1,10 +1,10 @@
 # 🛒 Retail Sales Analysis (2021–2023)
 
-A full end-to-end data analysis project simulating the workflow of a junior analyst at a retail company — from raw messy data through cleaning, SQL querying, and visual storytelling.
+A full end-to-end data analysis project simulating the workflow of a junior analyst at a retail company, from raw messy data through cleaning, SQL querying, and visual storytelling.
 
 ---
 
-## 📌 Business Questions Answered
+## 📌 Questions Answered Through The Data
 
 | # | Question |
 |---|----------|
@@ -57,7 +57,7 @@ retail-sales-analysis/
 
 ---
 
-## 🧹 Data Cleaning Steps
+## 🧹 Cleaning Steps
 
 The raw dataset contained several realistic data quality issues, all resolved before analysis:
 
